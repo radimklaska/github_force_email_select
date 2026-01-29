@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         GitHub PR - Require Commit Email Selection
-// @namespace    http://tampermonkey.net/
+// @namespace    https://klaska.net
 // @version      1.0
 // @description  Makes the "Commit email" dropdown default to empty and required on GitHub PR merge forms
-// @author       You
+// @author       Radim Klaška
 // @match        https://github.com/*/*/pull/*
 // @grant        none
 // @run-at       document-idle
+// @downloadURL  https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.js
+// @updateURL    https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.js
 // ==/UserScript==
 
 (function() {
