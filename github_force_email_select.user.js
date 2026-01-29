@@ -7,8 +7,8 @@
 // @match        https://github.com/*/*/pull/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.js
-// @updateURL    https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.js
+// @downloadURL  https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.user.js
+// @updateURL    https://raw.githubusercontent.com/radimklaska/github_force_email_select/main/github_force_email_select.user.js
 // ==/UserScript==
 
 (function() {
